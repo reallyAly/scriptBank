@@ -1,0 +1,13 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "A project in javascript to learn about OO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alysson Victor",
+  "license": "ISC",
+  "type": "module",
+
+}
