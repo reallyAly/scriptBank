@@ -1,2 +1,2 @@
 # scriptBank
-Code built to learn about OO on javascript
+Simple code built to learn about OO on javascript
